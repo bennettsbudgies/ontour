@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: bennettsbudgies.co.uk/sitemap.xml
